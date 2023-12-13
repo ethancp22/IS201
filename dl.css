@@ -1,0 +1,56 @@
+.cool {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    font-style: italic;
+}
+
+.jesuspic {
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 40px;
+}
+
+.type {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+}
+
+.kewl {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: initial;
+    color: blanchedalmond;
+}
+
+.links {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.youtube {
+    text-align: center;
+    
+}
+
+.header {
+    font-weight: bold;
+    font-size: 75px;
+}
+
+.onpage {
+    font-size: 30px;
+}
+
+h5 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.color {
+    color: brown;
+}
+
+.tableau {
+    width: 300;
+    height: 500;
+}
