@@ -1,7 +1,7 @@
 .cool {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-style: bold;
-    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+    font-style: bold !important;
+    font-style: italic !important;
 }
 
 .jesuspic {
@@ -12,14 +12,14 @@
 }
 
 .type {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+    font-style: oblique !important;
 }
 
 .kewl {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
     font-style: initial;
-    color: blanchedalmond;
+    color: blanchedalmond !important;
 }
 
 .links {
@@ -32,12 +32,12 @@
 }
 
 .header {
-    font-weight: bold;
-    font-size: 75px;
+    font-weight: bold !important;
+    font-size: 75px !important;
 }
 
 .onpage {
-    font-size: 30px;
+    font-size: 30px !important;
 }
 
 h5 {
@@ -47,7 +47,7 @@ h5 {
 }
 
 .color {
-    color: brown;
+    color: brown !important;
 }
 
 .tableau {
